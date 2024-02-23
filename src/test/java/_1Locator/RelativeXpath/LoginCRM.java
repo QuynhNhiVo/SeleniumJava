@@ -1,4 +1,4 @@
-package Locator.RelativeXpath;
+package _1Locator.RelativeXpath;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
