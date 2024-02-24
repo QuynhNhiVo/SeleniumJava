@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite Login" verbose="1">
+    <test name="LoginTest3">
+        <classes>
+            <class name="_5TestNGFramework.LoginTest">
+                <methods>
+                    <include name="testGoogleSearch2"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
